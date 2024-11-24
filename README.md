@@ -1,19 +1,22 @@
-<!-- ヘッダー -->
+<!-- ヘッダーイメージ -->
 <p align="center">
-  <img src="https://i.imgur.com/あなたの可愛いヘッダーイラスト.png" alt="Header Illustration" width="800"/>
+  <img src="https://i.imgur.com/あなたの可愛いヘッダーイラスト.png" alt="Header Illustration" width="100%" />
 </p>
 
-<h1 align="center" style="color: #FFB6C1;">
+<!-- タイトル -->
+<h1 align="center" style="color: #FFB6C1; font-family: 'Comic Sans MS', cursive, sans-serif;">
   こんにちは！👋  
   私は **kerachino** です✨
 </h1>
 
-<!-- トロフィーセクション -->
-
-## 🏆 トロフィー
-
+<!-- プロフィール写真 -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kerachino&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&margin-h=4&column=7" alt="Trophies" />
+  <img src="https://i.imgur.com/あなたの可愛いプロフィール写真.png" alt="Profile Photo" style="border-radius: 50%; width: 150px; border: 5px solid #FFB6C1;" />
+</p>
+
+<!-- 閲覧カウンター -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kerachino&color=FFB6C1&style=flat" alt="Profile Views" />
 </p>
 
 <!-- 自己紹介セクション -->
@@ -24,7 +27,7 @@
   <img src="https://i.imgur.com/あなたの可愛いイラスト.png" alt="Cute Illustration" width="150"/>
 </p>
 
-夢可愛いパステルピンクが大好きなフロントエンド開発者です。可愛いデザインと機能性を兼ね備えたウェブサイトを作るのが得意です。プログラミングとデザインの両方を楽しみながら、日々スキルアップを目指しています。
+夢可愛いパステルカラーが大好きなフロントエンド開発者です。可愛いデザインと機能性を兼ね備えたウェブサイトを作るのが得意です。プログラミングとデザインの両方を楽しみながら、日々スキルアップを目指しています。
 
 ### 💖 スキルセット
 
@@ -49,23 +52,35 @@
 ## 📈 GitHub ステータス
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kerachino&show_icons=true&theme=pink-green&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerachino&layout=compact&theme=pink-green&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kerachino&show_icons=true&theme=pink_cat&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerachino&layout=compact&theme=pink_cat&hide_border=true" alt="Top Languages" />
 </p>
 
-<!-- もしくは別のピンク系テーマ -->
-<!--
+<!-- GitHubステータスをパステルピンク基調にするため、カスタムテーマを使用 -->
+
+## 🏆 トロフィー
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kerachino&show_icons=true&theme=rose_pine&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerachino&layout=compact&theme=rose_pine&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kerachino&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="trophy" />
 </p>
--->
+
+## 📊 フォロワー数
+
+<p align="center">
+  <!-- Twitterフォロワー数バッジ -->
+  <a href="https://twitter.com/kerachino" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/kerachino?style=social&label=Follow&color=FFB6C1" alt="Twitter Follow" />
+  </a>
+  <!-- GitHubフォロワー数バッジ -->
+  <a href="https://github.com/kerachino" target="_blank">
+    <img src="https://img.shields.io/github/followers/kerachino?label=Follow&style=social&color=FFB6C1" alt="GitHub Follow" />
+  </a>
+</p>
 
 ## 📝 最近の活動
 
-<!-- GitHubアクティビティを表示するウィジェット -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kerachino&theme=panda&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kerachino&theme=pink_cat&hide_border=true" alt="Activity Graph" />
 </p>
 
 ## 💌 連絡先
@@ -75,16 +90,16 @@
     <img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://twitter.com/kerachino" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-FFC0CB?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="https://instagram.com/kerachino" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-F78FA7?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
-<!-- フッター -->
+<!-- フッターイメージ -->
 <p align="center">
-  <img src="https://i.imgur.com/あなたの可愛いフッターイラスト.png" alt="Footer Illustration" width="200"/>
+  <img src="https://i.imgur.com/あなたの可愛いフッターイラスト.png" alt="Footer Illustration" width="100%" />
   <br>
   © 2024 kerachino
 </p>
