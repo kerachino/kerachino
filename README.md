@@ -38,9 +38,9 @@
 ### 🌟 使用ツール
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Adobe%20XD-FFB6C1?style=for-the-badge&logo=adobe-xd&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-FFB6C1?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-FFB6C1?style=for-the-badge&logo=adobe-xd&logoColor=white&color=FFB6C1" />
+  <img src="https://img.shields.io/badge/VS%20Code-FFB6C1?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=FFB6C1" />
+  <img src="https://img.shields.io/badge/Git-FFB6C1?style=for-the-badge&logo=git&logoColor=white&color=FFB6C1" />
 </p>
 
 ## 📈 GitHub ステータス
