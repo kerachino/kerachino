@@ -73,7 +73,9 @@
 ## 📝 最近の活動
 
 <div align="center" style="background-color: #FFB6C1; padding: 20px; border-radius: 10px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kerachino&theme=react-dark&hide_border=true" alt="Activity Graph" />
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kerachino&theme=pink&hide_border=true" alt="Activity Graph" />
+  </p>
 </div>
 
 ## 💌 連絡先
