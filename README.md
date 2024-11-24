@@ -59,7 +59,7 @@
 
 <p align="center">
   🎀✨
-  <img src="https://github-profile-trophy.vercel.app/?username=kerachino&theme=gruvbox&no-bg=true&column=5&row=1&margin-w=15&margin-h=15" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kerachino&theme=shades-of-purple&no-bg=true&column=5&row=1&margin-w=15&margin-h=15" alt="Trophy" />
   ✨🎀
 </p>
 
