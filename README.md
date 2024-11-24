@@ -7,7 +7,7 @@
 <div align="center" style="background-color: #FFB6C1; padding: 20px; border-radius: 10px;">
   <h1 style="color: white;">
     こんにちは！👋  
-    私は **kerachino** です✨
+    kerachinoです✨
   </h1>
 </div>
 
@@ -24,7 +24,7 @@
   <img src="https://i.imgur.com/あなたの可愛いイラスト.png" alt="Cute Illustration" width="150"/>
 </p>
 
-夢可愛いパステルカラーが大好きなフロントエンド開発者です。可愛いデザインと機能性を兼ね備えたウェブサイトを作るのが得意です。プログラミングとデザインの両方を楽しみながら、日々スキルアップを目指しています。
+誰もが使え、生活をより便利にすべく、プログラミングとデザインの両方を楽しみながら、日々様々なウェブサイトを作成しています。
 
 ### 💖 スキルセット
 
@@ -72,11 +72,9 @@
 
 ## 📝 最近の活動
 
-<div align="center" style="background-color: #FFB6C1; padding: 20px; border-radius: 10px;">
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kerachino&theme=pink&hide_border=true" alt="Activity Graph" />
-  </p>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kerachino&theme=https%3A%2F%2Fgist.githubusercontent.com%2Fyourusername%2Fgistid%2Fraw%2Fcustom-pink-theme.json&hide_border=true" alt="Activity Graph" />
+</p>
 
 ## 💌 連絡先
 
@@ -87,7 +85,7 @@
   <a href="https://twitter.com/kerachino" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-FFB6C1?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://instagram.com/kerachino" target="_blank">
+  <a href="https://instagram.com/shoh.frf" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-FFB6C1?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
