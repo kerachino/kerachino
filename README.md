@@ -20,9 +20,9 @@
 
 ## 🌈 自己紹介
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://i.imgur.com/あなたの可愛いイラスト.png" alt="Cute Illustration" width="150"/>
-</p>
+</p> -->
 
 誰もが使え、生活をより便利にすべく、プログラミングとデザインの両方を楽しみながら、日々様々なウェブサイトを作成しています。
 (現状はあまり公開していませんが、検討中です)
