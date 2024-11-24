@@ -73,7 +73,8 @@
 ## 📝 最近の活動
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kerachino&theme=https://gist.githubusercontent.com/kerachino/e8815034878414677841d37510b7a653/raw/custom-pink-theme.json&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kerachino&theme=https%3A%2F%2Fgist.githubusercontent.com%2Fkerachino%2Fe8815034878414677841d37510b7a653%2Fraw%2Fcustom-pink-theme.json
+&hide_border=true" alt="Activity Graph" />
 </p>
 
 ## 💌 連絡先
