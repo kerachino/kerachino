@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/React-FFB6C1?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-FFB6C1?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <!-- <img src="https://img.shields.io/badge/Figma-FFB6C1?style=for-the-badge&logo=figma&logoColor=white" /> -->
-  <img src="https://img.shields.io/badge/Adobe-FFB6C1%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FFB6C1?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
 </p>
 
 ### 🌟 使用ツール
