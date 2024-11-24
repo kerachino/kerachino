@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://drive.google.com/file/d/1ZB4cHpBnAutRKU3HuPrvdXkMTDtL6af3/view?usp=sharing" alt="Background" width="100%" />
+  <img src="http://drive.google.com/uc?export=view&id=1ZB4cHpBnAutRKU3HuPrvdXkMTDtL6af3" alt="Background" width="100%" />
 </div>
 
 <!-- ヘッダー -->
