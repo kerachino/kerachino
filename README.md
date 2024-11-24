@@ -46,14 +46,14 @@
 ## 📈 GitHub ステータス
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kerachino&show_icons=true&theme=pastel&hide_border=true&count_private=true&title_color=FFB6C1&icon_color=FFB6C1&text_color=333333&bg_color=FFFFFF" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerachino&layout=compact&theme=pastel&hide_border=true&title_color=FFB6C1&text_color=333333&bg_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kerachino&show_icons=true&theme=pink&hide_border=true&count_private=true&title_color=FFB6C1&icon_color=FFB6C1&text_color=333333&bg_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerachino&layout=compact&theme=pink&hide_border=true&title_color=FFB6C1&text_color=333333&bg_color=FFFFFF" alt="Top Languages" />
 </p>
 
 ## 🏆 トロフィー
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kerachino&theme=gruvbox&row=1&column=5" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kerachino&theme=gradient&no-bg=true&column=5&row=1&margin-w=15&margin-h=15" alt="Trophy" />
 </p>
 
 ## 📊 フォロワー数
