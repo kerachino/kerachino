@@ -72,7 +72,9 @@
 ### Twitter フォロワー
 
 <p align="center">
-  <img src="https://img.shields.io/twitter/follow/kerachino?style=social&label=Follow&color=FFB6C1&logo=twitter" alt="Twitter Followers" />
+  <!-- 現在Shields.ioで動作していない場合は、代替手段を検討してください -->
+  <!-- 例として手動でフォロワー数を更新する方法 -->
+  <img src="https://img.shields.io/badge/Twitter-1234?style=social&label=Follow&color=FFB6C1&logo=twitter" alt="Twitter Followers" />
 </p>
 
 ### GitHub フォロワー
