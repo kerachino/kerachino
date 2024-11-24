@@ -53,7 +53,7 @@
 ## 🏆 トロフィー
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kerachino&theme=custom&no-bg=true&no-frame=true&margin-w=15&margin-h=15&column=5&row=1&title_color=%23FFB6C1&icon_color=%23FFB6C1&text_color=%23FFB6C1&bg_color=FFFFFF" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kerachino&theme=shades-of-purple&no-bg=true&column=5&row=1&margin-w=15&margin-h=15" alt="Trophy" />
 </p>
 
 ## 📊 フォロワー数
