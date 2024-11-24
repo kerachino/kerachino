@@ -1,29 +1,24 @@
-<!-- プロフィールヘッダー -->
-<h1 align="center">
-  こんにちは！👋
-  <br>
-  私は **kerachino** です。
-</h1>
-
-<!-- 可愛いイラスト -->
+<!-- ヘッダー -->
 <p align="center">
-  <img src="https://i.imgur.com/あなたの可愛いイラスト.png" alt="Cute Illustration" width="300"/>
+  <img src="https://i.imgur.com/あなたの可愛いヘッダーイラスト.png" alt="Header Illustration" width="600"/>
 </p>
+
+<h1 align="center" style="color: #FFB6C1;">
+  こんにちは！👋  
+  私は **kerachino** です✨
+</h1>
 
 <!-- 自己紹介セクション -->
 
-## 🌸 自己紹介
+## 🌈 自己紹介
 
-はじめまして！夢可愛いパステルが大好きなプログラマーです。主にフロントエンドの開発をしていますが、デザインも大好きで、可愛いものを作るのが得意です。
+<p align="center">
+  <img src="https://i.imgur.com/あなたの可愛いイラスト.png" alt="Cute Illustration" width="150"/>
+</p>
 
-- 🌈 **好きな色**: パステルピンク、ホワイト、ラベンダー
-- 💻 **使用言語**: JavaScript, Python, HTML/CSS
-- 🎨 **デザインツール**: Adobe XD, Figma
-- 📚 **学習中**: React, Tailwind CSS
+夢可愛いパステルカラーが大好きなフロントエンド開発者です。可愛いデザインと機能性を兼ね備えたウェブサイトを作るのが得意です。プログラミングとデザインの両方を楽しみながら、日々スキルアップを目指しています。
 
-<!-- スキルバッジ -->
-
-## 🛠 スキル
+### 💖 スキルセット
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -32,9 +27,16 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-<!-- GitHubステータス -->
+### 🌟 使用ツール
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ## 📈 GitHub ステータス
 
@@ -43,21 +45,30 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerachino&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<!-- 最近の活動 -->
-
 ## 📝 最近の活動
 
-<!-- GitHubアクティビティを表示するウィジェットを追加する場合は、外部サービスを利用します。 -->
+<!-- GitHubアクティビティを表示するウィジェット -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kerachino&theme=panda&hide_border=true" alt="Activity Graph" />
+</p>
 
 ## 💌 連絡先
 
-- 📧 Email: kerachino@example.com
-- 🐦 Twitter: [@kerachino](https://twitter.com/kerachino)
-- 📸 Instagram: [@kerachino](https://instagram.com/kerachino)
+<p align="center">
+  <a href="mailto:kerachino@example.com">
+    <img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/kerachino" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/kerachino" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 <!-- フッター -->
 <p align="center">
-  <img src="https://i.imgur.com/あなたの可愛いイラスト2.png" alt="Cute Footer" width="100"/>
+  <img src="https://i.imgur.com/あなたの可愛いフッターイラスト.png" alt="Footer Illustration" width="200"/>
   <br>
   © 2024 kerachino
 </p>
