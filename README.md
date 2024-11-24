@@ -1,12 +1,18 @@
-<!-- ヘッダー -->
+<!-- ヘッダーイメージ -->
 <p align="center">
-  <img src="https://i.imgur.com/あなたの可愛いヘッダーイラスト.png" alt="Header Illustration" width="600"/>
+  <img src="https://i.imgur.com/あなたの可愛いヘッダーイラスト.png" alt="Header Illustration" width="100%" />
 </p>
 
-<h1 align="center" style="color: #FFB6C1;">
+<!-- タイトル -->
+<h1 align="center" style="color: #FFB6C1; font-family: 'Comic Sans MS', cursive, sans-serif;">
   こんにちは！👋  
   私は **kerachino** です✨
 </h1>
+
+<!-- プロフィール写真 -->
+<p align="center">
+  <img src="https://i.imgur.com/あなたの可愛いプロフィール写真.png" alt="Profile Photo" style="border-radius: 50%; width: 150px; border: 5px solid #FFB6C1;" />
+</p>
 
 <!-- 自己紹介セクション -->
 
@@ -47,7 +53,6 @@
 
 ## 📝 最近の活動
 
-<!-- GitHubアクティビティを表示するウィジェット -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kerachino&theme=panda&hide_border=true" alt="Activity Graph" />
 </p>
@@ -66,9 +71,9 @@
   </a>
 </p>
 
-<!-- フッター -->
+<!-- フッターイメージ -->
 <p align="center">
-  <img src="https://i.imgur.com/あなたの可愛いフッターイラスト.png" alt="Footer Illustration" width="200"/>
+  <img src="https://i.imgur.com/あなたの可愛いフッターイラスト.png" alt="Footer Illustration" width="100%" />
   <br>
   © 2024 kerachino
 </p>
