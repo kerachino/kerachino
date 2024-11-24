@@ -1,6 +1,5 @@
-<!-- 背景画像 -->
 <div align="center">
-  <img src="http://drive.google.com/uc?export=view&id=1tGDP9u4euIeUaxjTifBXhvSxsRdm2J-K" alt="Background" width="100%" />
+  <img src="http://drive.google.com/uc?export=view&id=1tGDP9u4euIeUaxjTifBXhvSxsRdm2J-K" alt="Background" width="100%" height="100px" />
 </div>
 
 <!-- ヘッダー -->
@@ -25,43 +24,36 @@
 
 ## 🌈 自己紹介
 
-<div style="background-color: #FFE4E1; padding: 20px; border-radius: 10px; margin-top: 20px;">
-  <p align="center">
-    <img src="https://i.imgur.com/あなたの可愛いイラスト.png" alt="Cute Illustration" width="150"/>
-  </p>
+<p align="center">
+  <img src="https://i.imgur.com/あなたの可愛いイラスト.png" alt="Cute Illustration" width="150"/>
+</p>
 
 誰もが使え、生活をより便利にすべく、プログラミングとデザインの両方を楽しみながら、日々様々なウェブサイトを作成しています。
 (現状はあまり公開していませんが、検討中です)
 
-</div>
-
 ### 💖 スキルセット
 
-<div style="background-color: #FFB6C1; padding: 10px; border-radius: 10px; margin-top: 20px;">
-  <p align="center">
-    <!-- スキルセットのバッジをピンクに統一 -->
-    <img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-FFB6C1?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/React-FFB6C1?style=for-the-badge&logo=react&logoColor=white" />
-    <img src="https://img.shields.io/badge/TailwindCSS-FFB6C1?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <!-- <img src="https://img.shields.io/badge/Figma-FFB6C1?style=for-the-badge&logo=figma&logoColor=white" /> -->
-  </p>
-</div>
+<p align="center">
+  <!-- スキルセットのバッジをピンクに統一 -->
+  <img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-FFB6C1?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-FFB6C1?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-FFB6C1?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Figma-FFB6C1?style=for-the-badge&logo=figma&logoColor=white" /> -->
+</p>
 
 ### 🌟 使用ツール
 
-<div style="background-color: #FFB6C1; padding: 10px; border-radius: 10px; margin-top: 20px;">
-  <p align="center">
-    <!-- 使用ツールのバッジをピンクに統一 -->
-    <img src="https://img.shields.io/badge/VS%20Code-FFB6C1?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-    <img src="https://img.shields.io/badge/Figma-FFB6C1?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-    <img src="https://img.shields.io/badge/Adobe%20Illustrator-FFB6C1?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator" />
-    <img src="https://img.shields.io/badge/Adobe%20Photoshop-FFB6C1?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop" />
-    <img src="https://img.shields.io/badge/Git-FFB6C1?style=for-the-badge&logo=git&logoColor=white" />
-  </p>
-</div>
+<p align="center">
+  <!-- 使用ツールのバッジをピンクに統一 -->
+  <img src="https://img.shields.io/badge/VS%20Code-FFB6C1?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-FFB6C1?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FFB6C1?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-FFB6C1?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop" />
+  <img src="https://img.shields.io/badge/Git-FFB6C1?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ## 📈 GitHub ステータス
 
@@ -93,19 +85,17 @@
 
 ## 💌 連絡先
 
-<div style="background-color: #FFB6C1; padding: 10px; border-radius: 10px; margin-top: 20px;">
-  <p align="center">
-    <a href="mailto:kerachino@example.com">
-      <img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://twitter.com/kerachino" target="_blank">
-      <img src="https://img.shields.io/badge/x-FFB6C1?style=for-the-badge&logo=x&logoColor=white" />
-    </a>
-    <a href="https://instagram.com/shoh.frf" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-FFB6C1?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-  </p>
-</div>
+<p align="center">
+  <a href="mailto:kerachino@example.com">
+    <img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/kerachino" target="_blank">
+    <img src="https://img.shields.io/badge/x-FFB6C1?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/shoh.frf" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-FFB6C1?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
 
 <!-- フッター -->
 <p align="center">
