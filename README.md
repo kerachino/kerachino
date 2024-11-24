@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://drive.google.com/file/d/1ZB4cHpBnAutRKU3HuPrvdXkMTDtL6af3/view?usp=sharing" alt="Background" width="100%" />
+</div>
+
 <!-- ヘッダー -->
 <p align="center">
   <img src="https://i.imgur.com/あなたの可愛いヘッダーイラスト.png" alt="Header Illustration" width="600"/>
@@ -95,7 +99,5 @@
 
 <!-- フッター -->
 <p align="center">
-  <img src="https://i.imgur.com/あなたの可愛いフッターイラスト.png" alt="Footer Illustration" width="200"/>
-  <br>
   © 2024 kerachino
 </p>
