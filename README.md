@@ -1,10 +1,6 @@
-<div align="center">
-  <img src="http://drive.google.com/uc?export=view&id=1tGDP9u4euIeUaxjTifBXhvSxsRdm2J-K" alt="Background" width="100%" height="100px" />
-</div>
-
 <!-- ヘッダー -->
 <p align="center">
-  <img src="https://i.imgur.com/あなたの可愛いヘッダーイラスト.png" alt="Header Illustration" width="600"/>
+  <img src="http://drive.google.com/uc?export=view&id=1tGDP9u4euIeUaxjTifBXhvSxsRdm2J-K" alt="Header" width="100%" height="10px/>
 </p>
 
 <!-- 挨拶セクション -->
