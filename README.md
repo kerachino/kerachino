@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/あなたの可愛いヘッダーイラスト.png" alt="Header Illustration" width="600"/>
 </p>
 
-<h1 align="center" style="color: #fff; bg-color:pink">
+<h1 align="center" style="color: #fff; background-color:pink">
   こんにちは！👋  
   私は **kerachino** です✨
 </h1>
