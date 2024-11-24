@@ -59,7 +59,7 @@
 
 <p align="center">
   🎀✨
-  <img src="https://github-profile-trophy.vercel.app/?username=kerachino&theme=https://gist.githubusercontent.com/kerachino/e8815034878414677841d37510b7a653/raw/custom-pink-theme.json&no-bg=true&column=5&row=1&margin-w=15&margin-h=15" alt="Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kerachino&theme=shades-of-purple&no-bg=true&column=5&row=1&margin-w=15&margin-h=15" alt="Trophy" />
   ✨🎀
 </p>
 
@@ -73,7 +73,7 @@
 ## 📝 最近の活動
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kerachino&theme=https://gist.github.com/kerachino/e8815034878414677841d37510b7a653.js&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kerachino&theme=https://gist.githubusercontent.com/kerachino/e8815034878414677841d37510b7a653/raw/custom-pink-theme.json&hide_border=true" alt="Activity Graph" />
 </p>
 
 ## 💌 連絡先
