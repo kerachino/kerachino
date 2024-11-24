@@ -37,14 +37,18 @@
   <img src="https://img.shields.io/badge/React-FFB6C1?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-FFB6C1?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <!-- <img src="https://img.shields.io/badge/Figma-FFB6C1?style=for-the-badge&logo=figma&logoColor=white" /> -->
-  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator" />
+  <img src="https://img.shields.io/badge/Adobe-FFB6C1%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" />
 </p>
 
 ### 🌟 使用ツール
 
 <p align="center">
   <!-- 使用ツールのバッジをピンクに統一 -->
-  <img src="https://img.shields.io/badge/Adobe%20XD-FFB6C1?style=for-the-badge&logo=adobe-xd&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop" />
+
   <img src="https://img.shields.io/badge/VS%20Code-FFB6C1?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-FFB6C1?style=for-the-badge&logo=git&logoColor=white" />
 </p>
