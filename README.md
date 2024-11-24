@@ -86,7 +86,7 @@
     <img src="https://img.shields.io/badge/Email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://twitter.com/kerachino" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-FFB6C1?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/x-FFB6C1?style=for-the-badge&logo=x&logoColor=white" />
   </a>
   <a href="https://instagram.com/shoh.frf" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-FFB6C1?style=for-the-badge&logo=instagram&logoColor=white" />
