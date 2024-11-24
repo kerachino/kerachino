@@ -4,7 +4,7 @@
 </p>
 
 <!-- 挨拶セクション -->
-<div align="center" style="background-color: #FFB6C1; padding: 20px; border-radius: 10px;">
+<div align="center" style="background-color: #FFB6C1; padding: 0 20px; border-radius: 10px;">
   <h1 style="color: white;">
     こんにちは！👋  
     kerachinoです✨
