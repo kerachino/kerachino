@@ -1,18 +1,12 @@
-<!-- ヘッダーイメージ -->
+<!-- ヘッダー -->
 <p align="center">
-  <img src="https://i.imgur.com/あなたの可愛いヘッダーイラスト.png" alt="Header Illustration" width="100%" />
+  <img src="https://i.imgur.com/あなたの可愛いヘッダーイラスト.png" alt="Header Illustration" width="600"/>
 </p>
 
-<!-- タイトル -->
-<h1 align="center" style="color: #FFB6C1; font-family: 'Comic Sans MS', cursive, sans-serif;">
+<h1 align="center" style="color: #FFB6C1;">
   こんにちは！👋  
   私は **kerachino** です✨
 </h1>
-
-<!-- プロフィール写真 -->
-<p align="center">
-  <img src="https://i.imgur.com/あなたの可愛いプロフィール写真.png" alt="Profile Photo" style="border-radius: 50%; width: 150px; border: 5px solid #FFB6C1;" />
-</p>
 
 <!-- 自己紹介セクション -->
 
@@ -44,17 +38,30 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
+## 🏆 実績 & トロフィー
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Top%20Contributor-FFB6C1?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hackathon%20Winner-FFB6C1?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<!-- ここにトロフィーのイラストを追加 -->
+<p align="center">
+  <img src="https://i.imgur.com/あなたの可愛いトロフィーイラスト.png" alt="Trophy Illustration" width="100"/>
+</p>
+
 ## 📈 GitHub ステータス
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kerachino&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerachino&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kerachino&show_icons=true&theme=pink&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerachino&layout=compact&theme=pink&hide_border=true" alt="Top Languages" />
 </p>
 
 ## 📝 最近の活動
 
+<!-- GitHubアクティビティを表示するウィジェット -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kerachino&theme=panda&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kerachino&theme=pink&hide_border=true" alt="Activity Graph" />
 </p>
 
 ## 💌 連絡先
@@ -71,9 +78,9 @@
   </a>
 </p>
 
-<!-- フッターイメージ -->
+<!-- フッター -->
 <p align="center">
-  <img src="https://i.imgur.com/あなたの可愛いフッターイラスト.png" alt="Footer Illustration" width="100%" />
+  <img src="https://i.imgur.com/あなたの可愛いフッターイラスト.png" alt="Footer Illustration" width="200"/>
   <br>
   © 2024 kerachino
 </p>
