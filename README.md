@@ -1,6 +1,6 @@
 <!-- 背景画像 -->
 <div align="center">
-  <img src="http://drive.google.com/uc?export=view&id=1ZB4cHpBnAutRKU3HuPrvdXkMTDtL6af3" alt="Background" width="100%" />
+  <img src="http://drive.google.com/uc?export=view&id=1tGDP9u4euIeUaxjTifBXhvSxsRdm2J-K" alt="Background" width="100%" />
 </div>
 
 <!-- ヘッダー -->
