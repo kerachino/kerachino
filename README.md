@@ -7,7 +7,7 @@
 <div align="center" style="background-color: #FFB6C1; padding: 20px; border-radius: 10px;">
   <h1 style="color: white;">
     こんにちは！👋  
-    私は **kerachino** です✨
+    kerachinoです✨
   </h1>
 </div>
 
@@ -24,48 +24,29 @@
   <img src="https://i.imgur.com/あなたの可愛いイラスト.png" alt="Cute Illustration" width="150"/>
 </p>
 
-夢可愛いパステルカラーが大好きなフロントエンド開発者です。可愛いデザインと機能性を兼ね備えたウェブサイトを作るのが得意です。プログラミングとデザインの両方を楽しみながら、日々スキルアップを目指しています。
+誰もが使え、生活をより便利にすべく、プログラミングとデザインの両方を楽しみながら、日々様々なウェブサイトを作成しています。
 
 ### 💖 スキルセット
 
 <p align="center">
-  <!-- スキルセットのバッジをピンクに統一し、クリック可能に -->
-  <a href="https://developer.mozilla.org/ja/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  </a>
-  <a href="https://developer.mozilla.org/ja/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  </a>
-  <a href="https://developer.mozilla.org/ja/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-FFB6C1?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/React-FFB6C1?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.shields.io/badge/TailwindCSS-FFB6C1?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Figma-FFB6C1?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  </a>
+  <!-- スキルセットのバッジをピンクに統一 -->
+  <img src="https://img.shields.io/badge/JavaScript-FFB6C1?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-FFB6C1?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-FFB6C1?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-FFB6C1?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-FFB6C1?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-FFB6C1?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Figma-FFB6C1?style=for-the-badge&logo=figma&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator" />
 </p>
 
 ### 🌟 使用ツール
 
 <p align="center">
-  <!-- 使用ツールのバッジをピンクに統一し、クリック可能に -->
-  <a href="https://www.adobe.com/jp/products/xd.html" target="_blank">
-    <img src="https://img.shields.io/badge/Adobe%20XD-FFB6C1?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/VS%20Code-FFB6C1?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Git-FFB6C1?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </a>
+  <!-- 使用ツールのバッジをピンクに統一 -->
+  <img src="https://img.shields.io/badge/Adobe%20XD-FFB6C1?style=for-the-badge&logo=adobe-xd&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-FFB6C1?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-FFB6C1?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ## 📈 GitHub ステータス
@@ -93,7 +74,7 @@
 ## 📝 最近の活動
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kerachino&theme=https%3A%2F%2Fgist.githubusercontent.com%2Fyourusername%2Fgistid%2Fraw%2Fcustom-pink-theme.json&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kerachino&theme=https://gist.githubusercontent.com/kerachino/e8815034878414677841d37510b7a653/raw/custom-pink-theme.json&hide_border=true" alt="Activity Graph" />
 </p>
 
 ## 💌 連絡先
@@ -105,7 +86,7 @@
   <a href="https://twitter.com/kerachino" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-FFB6C1?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://instagram.com/kerachino" target="_blank">
+  <a href="https://instagram.com/shoh.frf" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-FFB6C1?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
