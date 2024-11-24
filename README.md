@@ -3,7 +3,7 @@
   <img src="https://i.imgur.com/あなたの可愛いヘッダーイラスト.png" alt="Header Illustration" width="600"/>
 </p>
 
-<h1 align="center" style="color: #FFB6C1;">
+<h1 align="center" style="color: #fff; bg_color=pink">
   こんにちは！👋  
   私は **kerachino** です✨
 </h1>
@@ -66,22 +66,6 @@
   <img src="https://i.imgur.com/your-custom-pink-trophy.png" alt="Trophy" width="300"/>
 </p>
 -->
-
-## 📊 フォロワー数
-
-### Twitter フォロワー
-
-<p align="center">
-  <!-- 現在Shields.ioで動作していない場合は、代替手段を検討してください -->
-  <!-- 例として手動でフォロワー数を更新する方法 -->
-  <img src="https://img.shields.io/badge/Twitter-1234?style=social&label=Follow&color=FFB6C1&logo=twitter" alt="Twitter Followers" />
-</p>
-
-### GitHub フォロワー
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/kerachino?style=social&label=Follow&color=FFB6C1&logo=github" alt="GitHub Followers" />
-</p>
 
 ## 📝 最近の活動
 
